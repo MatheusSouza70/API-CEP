@@ -28,5 +28,5 @@
 
 <h1 align="center"> 🌎 Link para visualização 🌎</h1>
 <br>
-<p> - https://matheussouza70.github.io/API-Temperatura/ </p>
+<p> - https://matheussouza70.github.io/API-CEP/ </p>
 
